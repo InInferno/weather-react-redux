@@ -1,6 +1,6 @@
 # Weather
 
-Виджет погоды.
+Ссылка: [weather](https://InInferno.github.io/weather-react-redux/ "Виджет погоды")
 Версия: v. 0.0.1
 
 ### Технологии: 
@@ -31,3 +31,7 @@
 Режим разработки с hotreload
 
     npm run start
+
+Деплой проекта на gh-pages
+
+    npm run deploy
